@@ -33,7 +33,5 @@ int main()
     {
         printf("%d is greater",d);
     }
-    
-    
     return 0;
 }
