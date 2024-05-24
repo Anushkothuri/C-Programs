@@ -1,4 +1,4 @@
-// Check input character is vowel or consonant.
+// Using conditional statements check given character is vowel or consonant.
 #include<stdio.h>
 int main()
 {
