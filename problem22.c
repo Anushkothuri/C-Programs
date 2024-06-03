@@ -1,4 +1,4 @@
-// find diameter,area,circumference of a circle.
+// Using functions find diameter,area,circumference of a circle.
 #include<stdio.h>
 #include<math.h>
 void area(int);
