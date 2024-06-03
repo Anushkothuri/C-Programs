@@ -1,3 +1,4 @@
+// Find cube of any number using functions.
 #include<stdio.h>
 void cube(int);
 int main()
